@@ -15,7 +15,7 @@ counter = 0
 for i in test_list:
 
 	# incrementing counter
-	counter  counter + 1'''ERROR - equal sign is missing'''
+	counter = counter + 1
 
 # Printing length of list
 print("Length of list using naive method is : " + str(counter))
